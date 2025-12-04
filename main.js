@@ -15,13 +15,13 @@ When I look at you, I don't just see your beautiful face — I see my future. I 
 
 You've changed me in the best possible ways. Because of you, I understand what it means to love completely, to trust absolutely, to hope endlessly. You've shown me that true love isn't about finding someone perfect, but about seeing someone imperfect perfectly — and that's exactly how I see you.
 
-No matter what happens in life, I want you to know this: my love for you is constant. It's in the way I think of you first when something good happens. It's in the way I save the last piece of anything good for you. It's in the way your happiness has become my priority.
+No matter what happens in life, I want you to know this: my love for you is constant. It's in the way I think of you first when something good happens. It's in the way your happiness has become my main priority. It's in the way I can't wait to see you again, to hold you close, to tell you once more just how much you mean to me.
 
 I promise to always be your biggest supporter, your soft place to land, and the hand you can always reach for. I promise to love you not only when it's easy, but especially when it's not. I promise to choose you, every single day.
 
-Thank you for being exactly who you are. Thank you for your beautiful soul, your kind heart, your brilliant mind. Thank you for trusting me with your love.
+Thank you for being exactly who you are. Thank you for your beautiful soul, your kind heart, your brilliant mind. Thank you for trusting me with your love. I love you more deeply than words can express, more fiercely than I ever thought possible.
 
-You are my favorite person in this entire world, and loving you is the greatest privilege of my life.`;
+You are my favorite person in this entire world, and loving you is the greatest privilege of my life. i can't wait to see where our journey takes us next, hand in hand, heart to heart.`;
 
   message.textContent = fullMessage;
 
